@@ -1,19 +1,9 @@
-# Frontend Mentor - QR code component solution
+FrontEnd Mentor - Learning Paths repository
+Repository dedicated to hosting the solutions for the projects related to the Learning Paths from the FrontEnd Mentor website.
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Folder Guide
+Within the Learning Paths folder, you can find the folders that show the solutions for each challenge, organized in the order they were announced by the platform.
+Each folder contains the files used, showcasing the solution for each project in code. Additionally, each project folder has its own readme.md file, which includes the project description as well as the hosting link for the website that was created (in most cases).
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- 
+Author:
+Shankarganesh B
